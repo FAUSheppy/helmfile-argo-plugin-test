@@ -1,0 +1,6 @@
+repositories: []
+
+releases:
+  - name: hello
+    namespace: hello-namespace
+    chart: ./charts/hello
